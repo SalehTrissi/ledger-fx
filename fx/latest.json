@@ -1,0 +1,813 @@
+{
+  "format": 1,
+  "base": "USD",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-21T10:25:52Z",
+  "rates": {
+    "AED": {
+      "rate": "3.6725",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "AFN": {
+      "rate": "64.25984708",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ALL": {
+      "rate": "82.14145036",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "AMD": {
+      "rate": "360.01833415",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "AOA": {
+      "rate": "915.9019349",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ARS": {
+      "rate": "1564.70769718",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "AUD": {
+      "rate": "1.49812247",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "AWG": {
+      "rate": "1.79",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "AZN": {
+      "rate": "1.69998916",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BAM": {
+      "rate": "1.7802517",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BBD": {
+      "rate": "2",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BDT": {
+      "rate": "124.65630087",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BHD": {
+      "rate": "0.376",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BIF": {
+      "rate": "3010.58561986",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BMD": {
+      "rate": "1",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BND": {
+      "rate": "1.28986586",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BOB": {
+      "rate": "11.70716476",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BRL": {
+      "rate": "5.93438836",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BSD": {
+      "rate": "1",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BTN": {
+      "rate": "92.98671073",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BWP": {
+      "rate": "14.20495566",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BYN": {
+      "rate": "2.99630298",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "BZD": {
+      "rate": "2.01539306",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CAD": {
+      "rate": "1.43165768",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CDF": {
+      "rate": "2315.05010149",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CHF": {
+      "rate": "0.84176428",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CLP": {
+      "rate": "1015.08985421",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CNY": {
+      "rate": "6.66906999",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "COP": {
+      "rate": "3429.93667763",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CRC": {
+      "rate": "448.40030082",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CUP": {
+      "rate": "24.0467665",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CVE": {
+      "rate": "100.37086824",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "CZK": {
+      "rate": "22.24034449",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "DJF": {
+      "rate": "177.4949452",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "DKK": {
+      "rate": "6.8032954",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "DOP": {
+      "rate": "60.23273591",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "DZD": {
+      "rate": "137.08224957",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "EGP": {
+      "rate": "53.81977495",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ERN": {
+      "rate": "15",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ETB": {
+      "rate": "163.19781446",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "EUR": {
+      "rate": "0.91022824",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "FJD": {
+      "rate": "2.29043333",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "FKP": {
+      "rate": "0.76248826",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GBP": {
+      "rate": "0.76248826",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GEL": {
+      "rate": "2.59196526",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GHS": {
+      "rate": "11.79015859",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GIP": {
+      "rate": "0.76248826",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GMD": {
+      "rate": "74.4202498",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GNF": {
+      "rate": "8877.97271853",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GTQ": {
+      "rate": "7.64963168",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "GYD": {
+      "rate": "209.60895823",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "HKD": {
+      "rate": "7.84019548",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "HNL": {
+      "rate": "26.95066471",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "HTG": {
+      "rate": "131.64383993",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "HUF": {
+      "rate": "340.0261881",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "IDR": {
+      "rate": "18269.82107003",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ILS": {
+      "rate": "3.32417616",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "INR": {
+      "rate": "92.98671073",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "IQD": {
+      "rate": "1519.18328925",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "IRR": {
+      "rate": "1935906.87470221",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ISK": {
+      "rate": "124.88587059",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "JMD": {
+      "rate": "158.5366233",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "JOD": {
+      "rate": "0.709",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "JPY": {
+      "rate": "159.11094604",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KES": {
+      "rate": "130.06362654",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KGS": {
+      "rate": "87.45873273",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KHR": {
+      "rate": "4071.49108051",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KMF": {
+      "rate": "447.80294016",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KPW": {
+      "rate": "899.3464214",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KRW": {
+      "rate": "1335.89156191",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KWD": {
+      "rate": "0.31162356",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KYD": {
+      "rate": "0.83166793",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "KZT": {
+      "rate": "452.98969974",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "LAK": {
+      "rate": "22500.05513108",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "LBP": {
+      "rate": "90032.18206919",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "LKR": {
+      "rate": "332.84485506",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "LRD": {
+      "rate": "167.74544001",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "LSL": {
+      "rate": "17.52032008",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "LYD": {
+      "rate": "6.48726759",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MAD": {
+      "rate": "9.96165884",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MDL": {
+      "rate": "18.38126164",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MGA": {
+      "rate": "4531.0667997",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MKD": {
+      "rate": "56.0200449",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MMK": {
+      "rate": "2099.9994568",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MNT": {
+      "rate": "3608.78922393",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MOP": {
+      "rate": "8.07540135",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MRU": {
+      "rate": "40.88595273",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MUR": {
+      "rate": "46.77194862",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MVR": {
+      "rate": "15.44128457",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MWK": {
+      "rate": "1737.02595373",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MXN": {
+      "rate": "19.1260373",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MXV": {
+      "rate": "2.106086",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MYR": {
+      "rate": "4.11332133",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "MZN": {
+      "rate": "64.08062571",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "NAD": {
+      "rate": "17.52032008",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "NGN": {
+      "rate": "1349.97165466",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "NIO": {
+      "rate": "36.81540347",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "NOK": {
+      "rate": "9.75397953",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "NPR": {
+      "rate": "148.8484772",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "NZD": {
+      "rate": "1.81477551",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "OMR": {
+      "rate": "0.38488539",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PAB": {
+      "rate": "1",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PEN": {
+      "rate": "3.44062678",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PGK": {
+      "rate": "4.50423784",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PHP": {
+      "rate": "63.82571357",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PKR": {
+      "rate": "276.74733456",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PLN": {
+      "rate": "4.04071424",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "PYG": {
+      "rate": "6283.43239497",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "QAR": {
+      "rate": "3.64",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "RON": {
+      "rate": "4.86825409",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "RSD": {
+      "rate": "107.12842071",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "RUB": {
+      "rate": "81.74204328",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "RWF": {
+      "rate": "1479.35355265",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SAR": {
+      "rate": "3.75",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SBD": {
+      "rate": "8.13127909",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SCR": {
+      "rate": "14.45078581",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SDG": {
+      "rate": "600.2008314",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SEK": {
+      "rate": "10.17411472",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SGD": {
+      "rate": "1.28986586",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SHP": {
+      "rate": "0.76248826",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SLE": {
+      "rate": "22.97487885",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SOS": {
+      "rate": "572.19374366",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SRD": {
+      "rate": "37.43506629",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SSP": {
+      "rate": "5777.36569875",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "STN": {
+      "rate": "22.55286972",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SVC": {
+      "rate": "8.75",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SYP": {
+      "rate": "12992.55324997",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "SZL": {
+      "rate": "17.52032008",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "THB": {
+      "rate": "33.95872235",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TJS": {
+      "rate": "9.21770601",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TMT": {
+      "rate": "3.50722347",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TND": {
+      "rate": "3.05158411",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TOP": {
+      "rate": "2.40939287",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TRY": {
+      "rate": "50.54532793",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TTD": {
+      "rate": "6.78858389",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TWD": {
+      "rate": "32.966532",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "TZS": {
+      "rate": "2656.82447798",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "UAH": {
+      "rate": "45.06306023",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "UGX": {
+      "rate": "4215.80705983",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "USD": {
+      "rate": "1",
+      "source": "base",
+      "date": "2026-11-20"
+    },
+    "UYU": {
+      "rate": "40.69363045",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "UZS": {
+      "rate": "11989.31284902",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "VED": {
+      "rate": "916.72196896",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "VES": {
+      "rate": "916.72196896",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "VND": {
+      "rate": "25786.82207112",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "VUV": {
+      "rate": "121.63931794",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "WST": {
+      "rate": "2.82328094",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XAF": {
+      "rate": "597.07058688",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XAG": {
+      "rate": "0.023850557",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XAU": {
+      "rate": "0.0002816559",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XCD": {
+      "rate": "2.70677882",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XCG": {
+      "rate": "1.80572789",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XDR": {
+      "rate": "0.74383085",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XOF": {
+      "rate": "597.07058688",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XPD": {
+      "rate": "0.0011215981",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XPF": {
+      "rate": "108.61912195",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "XPT": {
+      "rate": "0.0007607258",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "YER": {
+      "rate": "236.49206835",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ZAR": {
+      "rate": "17.52032008",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ZMW": {
+      "rate": "20.62865814",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    },
+    "ZWG": {
+      "rate": "26.39932494",
+      "source": "currency-api",
+      "date": "2026-11-20"
+    }
+  }
+}
