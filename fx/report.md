@@ -1,12 +1,12 @@
 # Exchange-rate snapshot
 
-Snapshot date: 2026-11-20. Generated at: 2026-11-21T10:25:52Z.
+Snapshot date: 2026-11-21. Generated at: 2026-11-22T14:46:28Z.
 
 ## Sources (in the order they are used)
 
 | Source | Status | Catalogue currencies |
 | --- | --- | --- |
-| currency-api | ok 2026-11-20 | 160 |
+| currency-api | ok 2026-11-21 | 160 |
 | frankfurter | ok 2026-11-20 | 29 |
 
 ## No rate in any source (17)
